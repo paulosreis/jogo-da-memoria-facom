@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Jogo_da_Memoria:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Jogo_da_Memoria</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Jogo_da_Memoria-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Jogo_da_Memoria:war exploded" />
+    </root>
+  </artifact>
+</component>
